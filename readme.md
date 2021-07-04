@@ -1,6 +1,6 @@
-##Installtion
+## Installation
 
-Before developing
+Before developing:
 
 1) Install composer by running:
 
@@ -10,7 +10,7 @@ Before developing
 
 [Database download link](https://drive.google.com/file/d/1luW_YAcgKob6sS7xPmJObgMbo3el5SaX/view?usp=sharing)
 
-##Running
+## Running
 
 To start the server type:
 
